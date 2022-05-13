@@ -4,5 +4,11 @@
 }
 .email{
 
-  /* margin-left: 4px; */
+  margin-left: 4px;
+}
+
+.cardWidth{
+  width: 600px;
+  height: 400px;
+  background-color: bisque;
 }
